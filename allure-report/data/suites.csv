@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Fri Apr 14 12:47:22 IST 2023","Fri Apr 14 12:47:29 IST 2023","7791","","","","","","Validating search feature",""
+"broken","Fri Apr 14 12:47:29 IST 2023","Fri Apr 14 12:47:37 IST 2023","7970","","","","","","Validating search  with new text",""
